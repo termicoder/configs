@@ -1,2 +1,3 @@
-# docs
-the docs for termicoder
+# configs
+
+Work in progress
